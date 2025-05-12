@@ -1,0 +1,6 @@
+div p {
+    background-color: red;
+}
+
+/* this selects p that are in a div 
+.class.class will select if they have both classes  */
